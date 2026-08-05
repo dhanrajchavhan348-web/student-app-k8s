@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: mukunddeo9325/frontend3:latest
+        image: dhanrajchavhan348/acer5:forntend
         ports:
         - containerPort: 80
 
